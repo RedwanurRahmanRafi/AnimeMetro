@@ -43,9 +43,9 @@
   <a href="#" class="list-group-item list-group-item-action">Pick what youlike and make to tell us what you think</a>
 
   
-  <a href="#" class="list-group-item list-group-item-action list-group-item-primary">Full Metal Alchamist</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">One Piece</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-success">Tokyo Revengers</a>
+  <a href="HTML.html" class="list-group-item list-group-item-action list-group-item-dark">Full Metal Alchamist</a>
+  <a href="haikyu.html" class="list-group-item list-group-item-action list-group-item-secondary">Haikyuo</a>
+  <a href="attac.html" class="list-group-item list-group-item-action list-group-item-success">Attack on Titans</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-danger">Sword Art Online</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-warning">The time I got reincaranted as a Slime</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-info">Van Helsing</a>
