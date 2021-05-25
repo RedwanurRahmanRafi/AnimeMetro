@@ -3,9 +3,6 @@
 }
 
 body {
-
-  width: 1350px;
-
 }
 
 .heading {
@@ -52,6 +49,12 @@ body {
   background-color: #f1f1f1;
   text-align: center;
   color: white;
+}
+.container {
+  padding-left: 20px;
+}
+.desc {
+  padding-left: 20px;
 }
 
 /* Individual bars */
